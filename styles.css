@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(109, 207, 175);
+    
+}
+
+h1{
+   line-height: 2px;
+}
+
+.subtitle{
+    font-style: italic;
+    font-size: 20px;
+    line-height: 2px;
+}
+#content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px 0px 20px;
+    margin-bottom: 0px;
+    
+ 
+}
+
+
+#form{
+    background-color: aqua;
+    margin: 0 10px 0 10px;
+    width: 55%;
+    padding: 14px 28px;
+    
+    
+
+}
+.block{
+    background-color: white;
+    display: block;
+    width: 100%;
+    text-align: left;
+    border:  none;
+    padding: 14px 18px;
+    font-size: 16px;
+    cursor: pointer;
+  
+  
+}
+
+.submit{
+    display: block;
+    width: 100%;
+    text-align: left;
+    border: none;
+    padding: 20px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 100px;
+   
+}
+
+#desc{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#comment{
+    display: block;
+    width: 100%;
+    text-align: left;
+    border: none;
+    padding: 20px 25px 68px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border:  none;
+
+
+}
